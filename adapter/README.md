@@ -1,14 +1,4 @@
----
-layout: pattern
-title: Adapter
-folder: adapter
-permalink: /patterns/adapter/
-categories: Structural
-tags:
- - Java
- - Gang Of Four
- - Difficulty-Beginner
----
+
 
 ## 别名
 适配器模式(Wrapper)
@@ -103,18 +93,17 @@ captain.row();
 * 想要使用一些已经存在的子类，但是总不能每个都继承全都给他适配了吧，这时候可以用对象适配方法来直接适配他们的父类。
 * 很多程序在用第三方库的时候会用适配器来解耦，这样如果要换其他库的时候就不用修改自己程序的代码了。
 
-## 有哪些后果:
+## 有啥特点:
 Class 和 object 适配器不太一样.对于class适配器（通过继承方式实现的适配器）
 
 *	想要代理某个类和他的全部子类时，这招就不好使了。
 *   可以覆盖一些被代理对象的行为，因为毕竟是要继承的嘛。
 *   结构比较简单
-*	introduces only one object, and no additional pointer indirection is needed to get to the adaptee.
 
 object 适配器（通过直接关联被适配类实现的适配器，也就是本项目的做法）
 
 *  一个适配器可以适配很多被适配者--就是说被适配的类和他所有的子类，还可以为所有被适配的类一次性的添加功能。
-*  想要override被适配者变得更困难了，因为你要写子类去覆盖的同时修改适配器适配新的子类。
+*  想要override被适配者变得更困难了，因为你要写子类去覆盖的同时修改适配器去适配新的子类。
 
 
 ## 一些jdk里面的例子
