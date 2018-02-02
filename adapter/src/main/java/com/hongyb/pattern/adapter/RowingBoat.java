@@ -1,4 +1,4 @@
-package com.hongyb.toy;
+package com.hongyb.pattern.adapter;
 
 /**
  * 可以划的船，虽然这个接口没有写实现类，但是你懂的，即使有实现类只要通过对象适配模式适配了这个接口，

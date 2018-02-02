@@ -1,4 +1,4 @@
-package com.hongyb.toy;
+package com.hongyb.pattern.adapter;
 
 /**
  * 通过对象适配 适配接口

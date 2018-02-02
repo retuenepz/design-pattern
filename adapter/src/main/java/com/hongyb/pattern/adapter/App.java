@@ -1,4 +1,4 @@
-package com.hongyb.toy;
+package com.hongyb.pattern.adapter;
 
 /**
  * 这种是 对象适配模式，class适配模式并没有给出示例。不要误会哟。

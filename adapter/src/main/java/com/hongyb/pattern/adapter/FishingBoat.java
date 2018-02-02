@@ -1,4 +1,4 @@
-package com.hongyb.toy;
+package com.hongyb.pattern.adapter;
 
 /**
  * Created by hongyanbo on 2018/2/1.
