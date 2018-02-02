@@ -1,7 +1,7 @@
 package com.hongyb.toy;
 
 /**
- * 适配器类
+ * 通过对象适配 适配接口
  * Created by hongyanbo on 2018/2/1.
  */
 public class FishingBoatAdapter implements RowingBoat {

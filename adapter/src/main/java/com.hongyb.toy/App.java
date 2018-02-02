@@ -1,6 +1,7 @@
 package com.hongyb.toy;
 
 /**
+ * 这种是 对象适配模式，class适配模式并没有给出示例。不要误会哟。
  * Created by hongyanbo on 2018/2/1.
  */
 public class App {
