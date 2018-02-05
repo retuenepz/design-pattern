@@ -7,11 +7,12 @@
     callback 回调模式 简单
     converter 类型转换模式 简单
     decorator 装饰模式 简单
-
+    delegation(proxy) 授权/代理模式 简单  （翻译不懂）
 
 ## 暂时先不看的
     data-mapper
     data-transfer 作者写这个项目是为了说明什么？confused
+    dependency-injection 感觉意义不大，例子中是使用了google的包，还以为是自己实现的
 ## 看不懂的
     data-access-object 数据访问(dao) 简单  J8看不懂(⊙o⊙)？
 ## ^_^
