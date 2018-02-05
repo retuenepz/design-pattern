@@ -5,7 +5,11 @@
     adapter 适配器模式 简单
     balking 阻行模式 简单
     callback 回调模式 简单
+    converter 类型转换模式 简单
 
+
+## 暂时先不看的
+    data-access-object 数据访问(dao) 简单  JAVA8看不懂(⊙o⊙)？
 ## ^_^
 如果你发现有错误的话请千万要告诉我呀，下面是联系方法。
 * 提一个issues，最简单直接的方式。

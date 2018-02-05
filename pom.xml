@@ -12,6 +12,8 @@
         <module>adapter</module>
         <module>balking</module>
         <module>callback</module>
+        <module>converter</module>
+        <module>data-access-object</module>
     </modules>
     <properties>
         <slf4j.version>1.7.21</slf4j.version>
