@@ -18,6 +18,7 @@
         <module>delegation</module>
         <module>double-checked-locking</module>
         <module>event-aggregator</module>
+        <module>execute-around</module>
     </modules>
     <properties>
         <slf4j.version>1.7.21</slf4j.version>

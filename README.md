@@ -10,6 +10,7 @@
     delegation(proxy) 授权/代理模式 简单  （翻译不懂）
     double-checked-locking 双检锁 简单
     event-aggregator 事件聚合 简单
+    execute-around 简单 感觉还不如j9的Function
 
 ## 暂时先不看的
     data-mapper
