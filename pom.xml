@@ -14,10 +14,10 @@
         <module>callback</module>
         <module>converter</module>
         <module>data-access-object</module>
-        <module>data-mapper</module>
         <module>decorator</module>
         <module>delegation</module>
         <module>double-checked-locking</module>
+        <module>event-aggregator</module>
     </modules>
     <properties>
         <slf4j.version>1.7.21</slf4j.version>
