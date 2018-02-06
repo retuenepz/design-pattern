@@ -17,6 +17,7 @@
         <module>data-mapper</module>
         <module>decorator</module>
         <module>delegation</module>
+        <module>double-checked-locking</module>
     </modules>
     <properties>
         <slf4j.version>1.7.21</slf4j.version>
