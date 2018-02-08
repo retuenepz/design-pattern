@@ -10,12 +10,16 @@
     delegation(proxy) 授权/代理模式 简单  （翻译不懂）
     double-checked-locking 双检锁 简单
     event-aggregator 事件聚合 简单
-    execute-around 简单 感觉还不如j9的Function
+    execute-around 简单 感觉还不如java8的Function
+    factory-method 工厂方法 简单
 
 ## 暂时先不看的
     data-mapper
     data-transfer 作者写这个项目是为了说明什么？confused
     dependency-injection 感觉意义不大，例子中是使用了google的包，还以为是自己实现的
+    facade
+    factory-kit 看不懂 但是感觉很厉害 Java8的水平不够
+
 ## 看不懂的
     data-access-object 数据访问(dao) 简单  J8看不懂(⊙o⊙)？
 ## ^_^
