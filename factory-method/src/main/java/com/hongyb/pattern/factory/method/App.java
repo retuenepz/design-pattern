@@ -1,6 +1,8 @@
 package com.hongyb.pattern.factory.method;
 
-
+/**
+ *  其实感觉这个示例已经是抽象工厂模式了。有点超出factory method
+ */
 public class App {
     private BlackSmith blackSmith ;
 

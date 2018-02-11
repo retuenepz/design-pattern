@@ -22,6 +22,10 @@
 
 ## 看不懂的
     data-access-object 数据访问(dao) 简单  J8看不懂(⊙o⊙)？
+
+## 比本repo更好的设计模式资料
+   发现了一个更好的[repo](http://design-patterns.readthedocs.io/zh_CN/latest/creational_patterns/creational.html),他的解释要比我高明的多 -_- ，同学们还是去看他的吧
+
 ## ^_^
 如果你发现有错误的话请千万要告诉我呀，下面是联系方法。
 * 提一个issues，最简单直接的方式。
