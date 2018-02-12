@@ -12,6 +12,8 @@
     event-aggregator 事件聚合 简单
     execute-around 简单 感觉还不如java8的Function
     factory-method 工厂方法 简单
+    abstract-factory 抽象工厂
+
 
 ## 暂时先不看的
     data-mapper
