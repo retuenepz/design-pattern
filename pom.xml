@@ -23,6 +23,7 @@
         <module>factory-method</module>
         <module>abstract-factory</module>
         <module>builder</module>
+        <module>command</module>
     </modules>
     <properties>
         <slf4j.version>1.7.21</slf4j.version>
